@@ -3,4 +3,3 @@ Analyzes League of Legends champion statistics, including kills, deaths, assists
 
 
 ![image](https://github.com/user-attachments/assets/b7862991-f6e0-43e9-b7d8-82572761142d)
-Depicts statistics based on champion allowing for users to make informed decisions based on their best champion
